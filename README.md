@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone 
+git clone https://github.com/synamatic-project/Synamatic.git
 ```
 2. Backend setting
 ```
